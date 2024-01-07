@@ -45,7 +45,7 @@
   "dependencies": {
     "@floating-ui/react": "^0.26.1",
     "@headlessui/react": "^1.7.17",
-    "@heroicons/react": "^2.0.18",
+    "@heroicons/react": "^2.1.1",
     "@radix-ui/react-tooltip": "^1.0.7",
     "@sentry/integrations": "^7.77.0",
     "@sentry/react": "^7.77.0",
